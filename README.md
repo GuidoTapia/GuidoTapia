@@ -21,23 +21,19 @@ I specialize in JavaScript technologies (React, Node.js, React Native) and have 
 <a href="#"><img alt="GuidoTapia's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GuidoTapia&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-
-
-<div style="flex: 1; min-width: 200px; max-width: 500px;">
+<table>
+<tr>
+<td align="center">
 <img alt="GuidoTapia's Github Stats" src="https://github-readme-stats-alpha-bay-68.vercel.app/api?username=GuidoTapia&show_icons=false&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div style="flex: 1; min-width: 200px; max-width: 500px;">
+</td>
+<td align="center">
 <img alt="GuidoTapia's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GuidoTapia&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
-</div>
-
-<div style="flex: 1; min-width: 200px; max-width: 500px;">
-<img alt="GuidoTapia's Top Languages" src="https://github-readme-stats-alpha-bay-68.vercel.app/api/top-langs/?username=GuidoTapia&langs_count=6&layout=donut&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=IHC-AR"/>
-</div>
-
-</div>
+</td>
+<td align="center">
+<img alt="GuidoTapia's Top Languages" src="https://github-readme-stats-alpha-bay-68.vercel.app/api/top-langs/?username=GuidoTapia&langs_count=6&layout=donut&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=IHC-AR" />
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Connect with me
