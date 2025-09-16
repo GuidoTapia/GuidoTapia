@@ -1,8 +1,5 @@
 [![Typing SVG](https://github.com/GuidoTapia/GuidoTapia/blob/main/typewriter.gif?raw=true)](https://git.io/typing-svg)
 
-## 👋 Hi there, I'm Guido Tapia
-
-
 ### Full-Stack Engineer & Problem Solver
 
 Hey there! I'm a Full-Stack Software Engineer with experience building scalable web and mobile applications. My journey has taken me from robotics competitions (including winning the **RoboCup Soccer League World Championship 2017** 🏆) to mentoring developers and leading projects for clients across the US and Europe.
