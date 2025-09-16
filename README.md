@@ -12,43 +12,20 @@
 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/GuidoTapia/" target="blank" >
+<a href="https://www.linkedin.com/in/gl-tapia-ore-2601/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://twitter.com/POLARAMESHCHAN2" target="blank" >
-    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://rameshchandra22.hashnode.dev/">
-    <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/polarameshchandra/">
+  <a href="https://www.instagram.com/guido.ore/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:pola.rameshchandra22@gmail.com">
+  <a href="mailto:guido.tapia.ore@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dev.to/GuidoTapia">
-    <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 
   <br>
   <br>
   
- ## My Blogs
-<oi>
-  <li>
-<a href="https://rameshchandra22.hashnode.dev/top-15-vs-code-extensions-for-web-development"><strong>Top 15 VS Code Extensions For Web Development</strong></a></li>
-  <li>
-<a href="https://rameshchandra22.hashnode.dev/getting-started-with-github-pages"><strong>Getting started with GitHub pages</strong></a></li>
-  <li>
-<a href="https://rameshchandra22.hashnode.dev/css-gradient-the-ultimate-tool"><strong>CSS Gradient: The Ultimate Tool</strong></a></li>
-    <li>
-<a href="https://rameshchandra22.hashnode.dev/19-tips-to-google-like-a-pro"><strong>19 tips to Google like a pro</strong></a></li>
-      <li>
-<a href="https://rameshchandra22.hashnode.dev/53-new-shortcuts-to-perform-new-actions-in-one-step"><strong>53 new shortcuts to perform new actions in one step</strong></a></li>
 
-  </oi>
-<br>
 
  ## Languages and Tools:
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,7 +51,7 @@
 <br>
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoTapia&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
  <p align="center" >
- <a href="#"><img alt="Rameshchandra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoTapia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Rameshchandra's Top Languages" src="https://github-readme-stats-alpha-bay-68.vercel.app/api/top-langs/?username=GuidoTapia&langs_count=6&layout=donut&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=IHC-AR" /></a></p>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
@@ -94,19 +71,8 @@
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuidoTapia&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" /> -->
 <!-- </td></table>   -->
 
-<h2 align="center">My Trending Repos 💻</h2>
- <p align='center'>
-  <a href="https://github.com/GuidoTapia/Webdev-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GuidoTapia&repo=Webdev-Projects&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/GuidoTapia/Team-Dijkstra_Hackx"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GuidoTapia&repo=Team-Dijkstra_Hackx&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/GuidoTapia/LeetCode"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GuidoTapia&repo=LeetCode&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-  <a href="https://github.com/GuidoTapia/Codeforces"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GuidoTapia&repo=Codeforces&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-    <a href="https://github.com/GuidoTapia/GuidoTapia"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GuidoTapia&repo=GuidoTapia&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-</p>
+
 <br>
 <a><img src="https://img.shields.io/github/followers/GuidoTapia?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=GuidoTapia&color=orange&style=flat-square)
-
-  ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
-
- 
